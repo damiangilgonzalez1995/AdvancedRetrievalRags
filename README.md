@@ -49,17 +49,17 @@ There are 4 CSV files and the columns are:
 
 ![Getting Started](img/dataset.png)
 
-As is well known, RAGs collect the necessary context from the vector store. To create a vector store of these 4 files there is the jupyter notebook called: "create_vectore_db.ipynb".
+As is well known, RAGs collect the necessary context from the vector store. To create a vector store of these 4 files there is the jupyter notebook called: **0_create_vectore_db.ipynb**.
 
 
 ## Method 1: Naive Retreiver
-You can find it in the **naive_retriever.ipynb** file.
+You can find it in the **1_naive_retriever.ipynb** file.
 
 ## Method 2: Parent Document Retreiver
-You can find it in the **parent_document_retriever.ipynb** file.
+You can find it in the **2_parent_document_retriever.ipynb** file.
 
 ## Method 3: self Query Retriever
-You can find it in the **self_query_retriever.ipynb** file.
+You can find it in the **3_self_query_retriever.ipynb** file.
 
 ## Method 4: Contextual Compression Retriever (Reranking)
-You can find it in the **contextual_compression_retriever(reranking).ipynb** file.
+You can find it in the **4_contextual_compression_retriever(reranking).ipynb** file.
