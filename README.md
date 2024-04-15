@@ -1,4 +1,4 @@
-# AdvancedRetrievalRags
+# Advanced Retrieval to improve your Rags
 
 
 ## Introduction
@@ -34,6 +34,9 @@ In this repository, we will explore 4 different methods of retrievers.
 ## Data
 
 To expose these methods, a practical use case will be carried out to improve the explanation. Therefore, we are going to create a RAG about reviews of the John Wick movies.
+
+![Getting Started](img/john.avif)
+
 
 There are 4 CSV files and the columns are:
 
