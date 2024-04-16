@@ -25,7 +25,7 @@ In this repository, we will explore 4 different methods of retrievers.
 3. Self Query Retreiver
 4. Contextual Compression Retreiver (reranking)
 
-![Getting Started](img/readme.png)
+![Getting Started](img/readmeFinal.png)
 
 
 **Important Note**: This repository is focused on showing different methods of retrievers.
